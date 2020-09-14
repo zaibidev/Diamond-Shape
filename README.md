@@ -1,3 +1,3 @@
 # Diamond-Shape
-It is user friendly code.
-it is console based coded in C++.
+=> It is user friendly code.
+=> It is console based coded in C++.
